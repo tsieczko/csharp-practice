@@ -1,0 +1,11 @@
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Arguments/obj/Debug/netcoreapp3.1/Arguments.csprojAssemblyReference.cache
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Arguments/obj/Debug/netcoreapp3.1/Arguments.AssemblyInfoInputs.cache
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Arguments/obj/Debug/netcoreapp3.1/Arguments.AssemblyInfo.cs
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Arguments/bin/Debug/netcoreapp3.1/Arguments
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Arguments/bin/Debug/netcoreapp3.1/Arguments.deps.json
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Arguments/bin/Debug/netcoreapp3.1/Arguments.runtimeconfig.json
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Arguments/bin/Debug/netcoreapp3.1/Arguments.runtimeconfig.dev.json
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Arguments/bin/Debug/netcoreapp3.1/Arguments.dll
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Arguments/bin/Debug/netcoreapp3.1/Arguments.pdb
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Arguments/obj/Debug/netcoreapp3.1/Arguments.dll
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Arguments/obj/Debug/netcoreapp3.1/Arguments.pdb

@@ -1,0 +1,11 @@
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Basics/bin/Debug/netcoreapp3.1/Basics
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Basics/bin/Debug/netcoreapp3.1/Basics.deps.json
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Basics/bin/Debug/netcoreapp3.1/Basics.runtimeconfig.json
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Basics/bin/Debug/netcoreapp3.1/Basics.runtimeconfig.dev.json
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Basics/bin/Debug/netcoreapp3.1/Basics.dll
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Basics/bin/Debug/netcoreapp3.1/Basics.pdb
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Basics/obj/Debug/netcoreapp3.1/Basics.csprojAssemblyReference.cache
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Basics/obj/Debug/netcoreapp3.1/Basics.AssemblyInfoInputs.cache
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Basics/obj/Debug/netcoreapp3.1/Basics.AssemblyInfo.cs
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Basics/obj/Debug/netcoreapp3.1/Basics.dll
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Basics/obj/Debug/netcoreapp3.1/Basics.pdb

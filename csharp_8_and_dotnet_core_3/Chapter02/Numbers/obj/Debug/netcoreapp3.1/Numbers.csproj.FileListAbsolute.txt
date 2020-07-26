@@ -1,0 +1,11 @@
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Numbers/obj/Debug/netcoreapp3.1/Numbers.csprojAssemblyReference.cache
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Numbers/obj/Debug/netcoreapp3.1/Numbers.AssemblyInfoInputs.cache
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Numbers/obj/Debug/netcoreapp3.1/Numbers.AssemblyInfo.cs
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Numbers/bin/Debug/netcoreapp3.1/Numbers
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Numbers/bin/Debug/netcoreapp3.1/Numbers.deps.json
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Numbers/bin/Debug/netcoreapp3.1/Numbers.runtimeconfig.json
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Numbers/bin/Debug/netcoreapp3.1/Numbers.runtimeconfig.dev.json
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Numbers/bin/Debug/netcoreapp3.1/Numbers.dll
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Numbers/bin/Debug/netcoreapp3.1/Numbers.pdb
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Numbers/obj/Debug/netcoreapp3.1/Numbers.dll
+/home/tomasz/Dev/csharp-practice/csharp_8_and_dotnet_core_3/Chapter02/Numbers/obj/Debug/netcoreapp3.1/Numbers.pdb
