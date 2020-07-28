@@ -23,7 +23,7 @@ jobs:
     - uses: actions/checkout@v2
       
     - name: Setup .NET Core SDK
-      uses: actions/setup-dotnet
+      uses: actions/setup-dotnet@v1
 
     # Runs a single command using the runners shell
     - name: Run a one-line script
@@ -34,3 +34,5 @@ jobs:
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
+        ls $GITHUB_WORKSPACE
+        dotnet --version
