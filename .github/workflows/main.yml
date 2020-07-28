@@ -30,6 +30,6 @@ jobs:
     - name: Setup .NET Core SDK
       uses: actions/setup-dotnet@v1
 
-    # Runs a dotnet core tests
-    - name: Run PrimeFactorsLib tests
+    # Run dotnet core tests
+    - name: Run tests for PrimeFactorsLib
       run: dotnet test csharp_8_and_dotnet_core_3/Chapter04/Exercise02/PrimeFactorsLibTest/
