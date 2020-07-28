@@ -32,4 +32,4 @@ jobs:
 
     # Runs a dotnet core tests
     - name: Run PrimeFactorsLib tests
-      run: ls && dotnet test $GITHUB_WORKSPACE/csharp_8_and_dotnet_core_3/Chapter04/Exercise02/PrimeFactorsLibTest/
+      run: dotnet test csharp_8_and_dotnet_core_3/Chapter04/Exercise02/PrimeFactorsLibTest/
