@@ -10,13 +10,12 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/csharp_8_and_dotnet_core_3/Chapter01/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.dll",
+            "program": "${workspaceFolder}/bin/Debug/netcoreapp3.1/PrimeFactors.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/csharp_8_and_dotnet_core_3/Chapter01/HelloCS",
+            "cwd": "${workspaceFolder}",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
-            "stopAtEntry": false,
-            "requireExactSource": false
+            "stopAtEntry": false
         },
         {
             "name": ".NET Core Attach",
