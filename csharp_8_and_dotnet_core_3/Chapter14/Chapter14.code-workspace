@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "PracticalApps"
+		},
+		{
+			"path": "PracticalApps/NorthwindContextLib"
+		},
+		{
+			"path": "PracticalApps/NorthwindEntitiesLib"
+		}
+	]
+}
