@@ -5,8 +5,6 @@ using NorthwindEntitiesLib;
 using System.Collections.Generic;
 using System.Linq;
 
-			using System;
-
 
 namespace NorthwindWeb.Pages
 {
@@ -32,10 +30,8 @@ namespace NorthwindWeb.Pages
 
 		public IActionResult OnPost()
 		{
-			Console.WriteLine("OnPost");
 			if (ModelState.IsValid)
 			{
-				Console.WriteLine("ModelState is valid.");
 				db.Suppliers.Add(Supplier);
 				db.SaveChanges();
 				return RedirectToAction("/supplies");
